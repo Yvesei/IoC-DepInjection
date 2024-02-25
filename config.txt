@@ -1,0 +1,6 @@
+dao.DaoImpl
+metier.MetierImpl
+
+
+
+// change the first with ext.DaoImpl2
