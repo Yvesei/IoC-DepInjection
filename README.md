@@ -41,10 +41,6 @@ The `Presentation2` class reads class names from a `config.txt` file and dynamic
 
 2. **Annotations:** The `MetierImpl` class uses `@Autowired` annotation to inject the `IDao` instance.
 
-## Usage
-
-1. Compile the Java files:
-
 
 ## Usage
 
@@ -53,8 +49,8 @@ To run the examples:
 1. Compile the Java files.
 
 
-2. modify the `config.txt` file in the `src` directory with the Implemetation you want to use:
+2. modify the `config.txt` file in the `src` directory with the Implemetation you want to use.
 
 
-3. Run the `Presentation` or `Presentation2` class.
+3. Run the `Presentation` class.
 
